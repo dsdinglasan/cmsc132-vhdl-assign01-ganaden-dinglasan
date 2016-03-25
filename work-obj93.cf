@@ -1,7 +1,0 @@
-v 3
-file . "t6l_dinglasan_ganaden_tb.vhdl" "20160325042406.000" "20160325233639.646":
-  entity t6l_dinglasan_ganaden_tb at 6( 109) + 0 on 25;
-  architecture t6l_dinglasan_ganaden_tb of t6l_dinglasan_ganaden_tb at 14( 294) + 0 on 26;
-file . "t6l_dinglasan_ganaden.vhdl" "20160325153630.000" "20160325233635.108":
-  entity t6l_dinglasan_ganaden at 6( 90) + 0 on 23;
-  architecture buzzer of t6l_dinglasan_ganaden at 19( 394) + 0 on 24;
